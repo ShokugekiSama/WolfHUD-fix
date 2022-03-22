@@ -1,2 +1,2 @@
 # WolfHUD-fix
-Fix of WolfHud by Kamikaze94
+Fix of [WolfHUD](https://github.com/Kamikaze94/WolfHUD) by Kamikaze94
